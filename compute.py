@@ -3,8 +3,9 @@ import urllib2
 import json
 import re
 import urllib2
+import sys
 
-folder = "sfbay.craigslist.org/pen/apa/"
+folder = "sfbay.craigslist.org/sby/apa/"
 for file in os.listdir(folder):
   if file.startswith("3") and file.endswith(".html"):
     price = 0
@@ -25,12 +26,15 @@ for file in os.listdir(folder):
           if loc.startswith("loc%3A+"):
             loc = loc[7:]
           times = []
-          for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=1380+Willow+Road,+Menlo+Park,+CA+94025&destination=%s" % (loc,), "http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,)]:
-            opened = urllib2.urlopen(googleapi)
-            x = opened.read()
-            opened.close()
-            vals = json.loads(x)
-            times.append(vals['routes'][0]['legs'][0]['duration']['value'])
-          print file,price,times[0],times[1]
-          raise ValueError
+          try:
+            for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=1380+Willow+Road,+Menlo+Park,+CA+94025&destination=%s" % (loc,), "http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,)]:
+              opened = urllib2.urlopen(googleapi)
+              x = opened.read()
+              opened.close()
+              vals = json.loads(x)
+              times.append(vals['routes'][0]['legs'][0]['duration']['value'])
+            print "sby/"+file,price,times[0],times[1]
+            sys.stdout.flush()
+          except:
+            sys.stderr.write(str(sys.exc_info()[0]))
           break
