@@ -5,7 +5,7 @@ import re
 import urllib2
 import sys
 
-folder = "sfbay.craigslist.org/sby/apa/"
+folder = "sfbay.craigslist.org/pen/apa/"
 for file in os.listdir(folder):
   if file.startswith("3") and file.endswith(".html"):
     price = 0
@@ -33,7 +33,7 @@ for file in os.listdir(folder):
               opened.close()
               vals = json.loads(x)
               times.append(vals['routes'][0]['legs'][0]['duration']['value'])
-            print "http://sfbay.craigslist.org/sby/apa/"+file,price,times[0],times[1],times[2]
+            print "http://sfbay.craigslist.org/pen/apa/"+file,price,times[0],times[1],times[2]
             sys.stdout.flush()
           except:
             sys.stderr.write(str(sys.exc_info()[0]))
