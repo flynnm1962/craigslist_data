@@ -27,13 +27,13 @@ for file in os.listdir(folder):
             loc = loc[7:]
           times = []
           try:
-            for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=1380+Willow+Road,+Menlo+Park,+CA+94025&destination=%s" % (loc,), "http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,), "http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=Middlefield+%26+Shoreline,+United+States&destination=%s" % (loc,)]
+            for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=1380+Willow+Road,+Menlo+Park,+CA+94025&destination=%s" % (loc,), "http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,), "http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=808+North+Shoreline+Boulevard+Mountain+View,+CA+94043&destination=%s" % (loc,)]:
               opened = urllib2.urlopen(googleapi)
               x = opened.read()
               opened.close()
               vals = json.loads(x)
               times.append(vals['routes'][0]['legs'][0]['duration']['value'])
-            print "http://sfbay.craigslist.org/sby/apa/"+file,price,times[0],times[1]
+            print "http://sfbay.craigslist.org/sby/apa/"+file,price,times[0],times[1],times[2]
             sys.stdout.flush()
           except:
             sys.stderr.write(str(sys.exc_info()[0]))
