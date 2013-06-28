@@ -33,7 +33,7 @@ for file in os.listdir(folder):
               opened.close()
               vals = json.loads(x)
               times.append(vals['routes'][0]['legs'][0]['duration']['value'])
-            print "sby/"+file,price,times[0],times[1]
+            print "http://sfbay.craigslist.org/sby/apa/"+file,price,times[0],times[1]
             sys.stdout.flush()
           except:
             sys.stderr.write(str(sys.exc_info()[0]))
