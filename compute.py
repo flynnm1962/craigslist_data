@@ -27,7 +27,7 @@ for file in os.listdir(folder):
           if loc.startswith("loc%3A+"):
             loc = loc[7:]
           times = []
-          for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,)]:
+          for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&mode=walking&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,)]:
             time.sleep(2.0)
             opened = urllib2.urlopen(googleapi)
             x = opened.read()
