@@ -1,0 +1,42 @@
+##############################
+# Exclude robots from these
+
+User-agent: YahooFeedSeeker
+Disallow: /forums
+Disallow: /res/
+Disallow: /post
+Disallow: /email.friend
+Disallow: /eaf
+Disallow: /reply
+Disallow: /?flagCode
+Disallow: /ccc
+Disallow: /hhh
+Disallow: /sss
+Disallow: /bbb
+Disallow: /ggg
+Disallow: /jjj
+
+User-Agent: OmniExplorer_Bot
+Disallow: /
+
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /cgi-secure
+Disallow: /forums
+Disallow: /search
+Disallow: /res/
+Disallow: /post
+Disallow: /email.friend
+Disallow: /eaf
+Disallow: /reply
+Disallow: /?flagCode
+Disallow: /ccc
+Disallow: /hhh
+Disallow: /sss
+Disallow: /bbb
+Disallow: /ggg
+Disallow: /jjj
+Disallow: /*rss$
+
+
+#####################################

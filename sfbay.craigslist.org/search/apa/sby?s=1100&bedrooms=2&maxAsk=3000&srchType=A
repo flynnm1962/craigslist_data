@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html class="nojs"><head>
+	<title>SF bay area apts/housing for rent classifieds  - craigslist</title>
+
+	<meta name="description" content="SF bay area apts/housing for rent classifieds  - craigslist">
+	<link rel="alternate" type="application/rss+xml" href="http://sfbay.craigslist.org/search/apa/sby?bedrooms=2&amp;maxAsk=3000&amp;s=1100&amp;srchType=A&amp;format=rss" title="RSS feed for craigslist | apts/housing for rent  in SF bay area ">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+	<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/clnew.css?v=bb40664759f64c538d3483226621e439">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-1.9.2.custom.css?v=cb67f2e720fe8a2c7d83234590b2d1ed">
+	
+    
+	
+		<script type="text/javascript"><!--
+			var unmappableNotShownText = "unmappable items not shown";
+var showImageText = "show images";
+var showMapTabs = 1;
+var lessInfoText = "less info";
+var areaID = "1";
+var removeFromShortlistText = "remove from shortlist";
+var starHint = "save this post in your favorites list";
+var expFaves = "";
+var shortlistViewText = "shortlist view";
+var shortlistNoteText = "SHORTLISTED";
+var catAbb = null;
+var currencySymbol = "$";
+var viewPostingText = "view posting";
+var clearShortlistText = "clear shortlist";
+var moreInfoText = "more info";
+var showInfoText = "show info";
+var zoomToPosting = null;
+var imageHost = "http://images.craigslist.org";
+var pID = null;
+var addToShortlistText = "add to shortlist";
+
+		--></script>
+	
+	<!--[if lt IE 9]>
+<script type="text/javascript" src="//www.craigslist.org/js/html5shiv.js?v=ed7af45dcbda983c8455631037ebcdda"></script>
+<![endif]-->
+</head>
+
+<body class="toc ">
+<script type="text/javascript"><!--
+	var h = document.documentElement;
+	h.className = h.className.replace('nojs', '');
+	var pagetype;
+	function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+	var fmt = C('cl_fmt');
+	var b = document.body;
+	pagetype = b.className.replace(' ', '');
+	if (fmt) { b.className += " " + fmt; }
+	var width = window.innerWidth || document.documentElement.clientWidth;
+	if (width > 1000) { b.className += ' w1024'; }
+	var mode = C('cl_img');
+	if (mode && b.className.indexOf('map') == -1) { b.className += " " + mode; }
+--></script>
+
+
+	<article id="pagecontainer">
+
+		<header class="bchead">
+	<div class="contents closed">
+		<div class="topright_box">
+			<div id="ef">
+	[ <a href="http://www.craigslist.org/about/help/">help</a> ] 
+	[ <a href="https://post.craigslist.org/c/sfo?lang=en">post</a> ]
+</div>
+
+			<div id="favorites">
+    <a href="#"><span class="n">0</span> favorites</a>
+</div>
+
+		</div>
+		<div class="dropdown down">&or;</div>
+		<div class="dropdown up">&and;</div>
+		<div class="leftside">
+            <button class="back">&lt;</button>
+            <div class="breadbox">
+                <div class="breadcrumbs">
+                    <span class="crumb"><a href="//www.craigslist.org/about/sites">CL</a></span>
+                    <span class="crumb"><a href="/">SF bay area</a></span>  <span class="crumb"><a href="/sby/">south bay</a></span>   <span class="crumb"><a href="/sby/hhh/">housing</a></span> <span class="crumb"><a href="/sby/apa/">apts/housing for rent</a></span>
+                </div>
+            </div>
+		</div>
+        <div id="satabs" class="tabcontainer"><a href="/search/apa?bedrooms=2&amp;maxAsk=3000&amp;srchType=A">all SF bay area</a><a href="/search/apa/sfc?bedrooms=2&amp;maxAsk=3000&amp;srchType=A">san francisco</a><b>south bay</b><a href="/search/apa/eby?bedrooms=2&amp;maxAsk=3000&amp;srchType=A">east bay</a><a href="/search/apa/pen?bedrooms=2&amp;maxAsk=3000&amp;srchType=A">peninsula</a><a href="/search/apa/nby?bedrooms=2&amp;maxAsk=3000&amp;srchType=A">north bay</a><a href="/search/apa/scz?bedrooms=2&amp;maxAsk=3000&amp;srchType=A">santa cruz</a></div>
+
+	</div>
+</header>
+
+
+		<blockquote>
+
+		<script type="text/javascript"><!--
+			var catAbb = "apa";
+
+		--></script>
+	
+<form action="/search/apa/sby" id="searchform" method="get" accept-charset="utf-8">
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend">apts/housing for rent</legend>
+	<table id="searchtable" width="100%" cellpadding="2" summary="">
+		<tr>
+			<td align="right">search for:</td>
+
+			<td>
+				<div id="searchchecks">
+                    <label id="usemapcheck" style="display:none;">
+						<input type="checkbox" name="useMap" value="1">show map
+					</label>
+                    <label id="shortlistcheck" style="display:none;">
+						<input type="checkbox" name="shortlistOnly" value="1">show shortlisted items only
+					</label>
+					<input id="zoomtoposting" type="hidden" name="zoomToPosting" value="">
+				</div>
+				<input id="query" name="query" size="24" value="" autocorrect="off" autocapitalize="off"> in:
+				<select id="catAbb" name="catAbb">
+
+					<option value="ccc">all community
+
+					<option value="eee">all event
+
+					<option value="sss">all for sale / wanted
+
+					<option value="ggg">all gigs
+
+					<option value="hhh">all housing
+<option disabled value="">--
+<option value="hou"> apts wanted
+<option value="apa" selected> apts/housing for rent
+<option value="swp"> housing swap
+<option value="hsw"> housing wanted
+<option value="off"> office &amp; commercial
+<option value="prk"> parking &amp; storage
+<option value="reb"> real estate - by broker
+<option value="reo"> real estate - by owner
+<option value="rea"> real estate for sale
+<option value="rew"> real estate wanted
+<option value="roo"> rooms &amp; shares
+<option value="sha"> rooms wanted
+<option value="sbw"> sublet/temp wanted
+<option value="sub"> sublets &amp; temporary
+<option value="vac"> vacation rentals
+<option disabled value="">--
+
+					<option value="jjj">all jobs
+
+					<option value="ppp">all personals
+
+					<option value="res">all resume
+
+					<option value="bbb">all services offered
+</select>
+				<input type="submit" value="Search">
+				<label>
+					<input type="radio" name="srchType" value="T"
+					title="search only posting titles">title
+				</label>
+				<label>
+					<input type="radio" name="srchType" value="A" checked="checked"
+					title="search the entire posting">entire post
+				</label>
+			</td>
+		</tr>
+
+		<tr>
+			<td align="right">rent:</td>
+			<td><input name="minAsk" class="min" size="5" value="">
+<input name="maxAsk" class="max" size="5" value="3000">
+
+<select name="bedrooms">
+	<option value="">0+ BR</option>
+<option value="1">1 BR</option>
+<option value="2" selected="selected">2+ BR</option>
+<option value="3">3+ BR</option>
+<option value="4">4+ BR</option>
+<option value="5">5+ BR</option>
+<option value="6">6+ BR</option>
+<option value="7">7+ BR</option>
+<option value="8">8+ BR</option>
+
+</select>
+<label>
+	<input type="checkbox" name="addTwo"  value="purrr">cats
+</label>
+<label>
+	<input type="checkbox" name="addThree" value="wooof">dogs
+</label>
+
+				<span id="hoodpicker"><div style="position: relative;">
+    <noscript>
+        <select name="nh">
+            <option value="">all neighborhoods</option>
+            <option value="31">campbell</option>
+<option value="32">cupertino</option>
+<option value="33">gilroy</option>
+<option value="158">hollister</option>
+<option value="34">los gatos</option>
+<option value="109">milpitas</option>
+<option value="119">morgan hill</option>
+<option value="35">mountain view</option>
+<option value="36">san jose downtown</option>
+<option value="37">san jose east</option>
+<option value="38">san jose north</option>
+<option value="39">san jose south</option>
+<option value="40">san jose west</option>
+<option value="41">santa clara</option>
+<option value="43">saratoga</option>
+<option value="44">sunnyvale</option>
+<option value="45">willow glen / cambrian</option>
+
+        </select>
+    </noscript>
+
+    <button id="hoodtitle" type="button">
+        <span id="hoodtogon">[+]</span><span id="hoodtogoff">[-]</span>
+        <span id="hoodcount">all</span> neighborhoods
+    </button>
+    <select name="nh" id="nh" multiple="multiple" disabled="disabled">
+        <option id="all" value="">all neighborhoods</option>
+        <option value="31">campbell</option>
+<option value="32">cupertino</option>
+<option value="33">gilroy</option>
+<option value="158">hollister</option>
+<option value="34">los gatos</option>
+<option value="109">milpitas</option>
+<option value="119">morgan hill</option>
+<option value="35">mountain view</option>
+<option value="36">san jose downtown</option>
+<option value="37">san jose east</option>
+<option value="38">san jose north</option>
+<option value="39">san jose south</option>
+<option value="40">san jose west</option>
+<option value="41">santa clara</option>
+<option value="43">saratoga</option>
+<option value="44">sunnyvale</option>
+<option value="45">willow glen / cambrian</option>
+
+    </select>
+</div>
+</span>
+				<label>
+					<input type="checkbox" name="hasPic" value="1">has image
+				</label>
+			</td>
+		</tr>
+	</table>
+    </fieldset>
+</form>
+</blockquote>
+
+
+		<section class="body">
+			
+			
+			
+
+			<div class="sortby">sort by:  <strong>most recent</strong> <a href="/search/apa/sby?sort=priceasc&amp;bedrooms=2&amp;maxAsk=3000&amp;s=1100&amp;srchType=A">low price</a> <a href="/search/apa/sby?sort=pricedsc&amp;bedrooms=2&amp;maxAsk=3000&amp;s=1100&amp;srchType=A">high price</a></div>
+
+			<blockquote class="modebtns">
+	<button id="listview">list view</button>
+	<button id="picview">pic view</button>
+	<button id="gridview">grid view</button>
+	<button id="mapview">map view</button>
+</blockquote>
+
+
+			<blockquote id="toc_rows">
+
+			<div class="resulttotal">found 1380 postings</div>
+			<h4 class="ban resultshdr">
+	
+
+	<span class="nplink first" title="first page">
+		<a href='http://sfbay.craigslist.org/search/apa/sby?bedrooms=2&amp;maxAsk=3000&amp;srchType=A'>
+			|&lt;<span class="nplabel">first</span>
+		</a>
+	</span>
+	<div class="npcontrols">
+		<div class="npcontrolcenter">
+			<span class="nplink prev" title="previous page">
+				<a href='http://sfbay.craigslist.org/search/apa/sby?s=1000&bedrooms=2&amp;maxAsk=3000&amp;srchType=A'>
+					&lt;<span class="nplabel">prev</span>
+				</a>
+			</span>
+			<span class="nplink next" title="next page">
+				<a href='http://sfbay.craigslist.org/search/apa/sby?s=1200&bedrooms=2&amp;maxAsk=3000&amp;srchType=A'>
+					<span class="nplabel">next</span>&gt;
+				</a>
+			</span>
+			<span class="pagenum">1101 - 1200</span>
+		</div>
+	</div>
+</h4>
+ <p class="row" data-latitude="37.1349416864778" data-longitude="-121.591670881634" data-pid="3909069034"> <a href="/sby/apa/3909069034.html" class="i" data-id="0:00707_lJ3JJHfn0uU"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3909069034.html">Quiet One-Story Home with A Spectacular View</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2600</span> / 4br - 2658ft&sup2; -  <span class="pp"></span> <small> (morgan hill)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3909069034">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3192622091614" data-longitude="-121.982485393672" data-pid="3891454778"> <a href="/sby/apa/3891454778.html" class="i" data-id="3r63t53M95r95q15tcd6o147d6e9f226d1726.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3891454778.html">*** Very Nice 2 Bedroom / 1 1/2 Bathroom Condo ***</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1975</span> / 2br - 1099ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3891454778">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3909086410"> <a href="/sby/apa/3909086410.html" class="i" data-id="0:01212_15gAZVvy2bn"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3909086410.html">Nice Duplex in North Morgan Hill</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1790</span> / 2br - 1000ft&sup2; -  <span class="pp"></span> <small> (morgan hill)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3425242956425" data-longitude="-121.857867073238" data-pid="3909037856"> <a href="/sby/apa/3909037856.html" class="i" data-id="0:01616_la2DNIiAFNm"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3909037856.html">Downstairs with newer kitchen and bath</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1625</span> / 2br - 800ft&sup2; -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3909037856">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.007573168627" data-longitude="-121.578664739685" data-pid="3908885463"> <a href="/sby/apa/3908885463.html" class="i" data-id="0:00h0h_f3ISo8fWsFv"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3908885463.html">Adorable House in Wonderful Neighborhood</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2150</span> / 2br - 1380ft&sup2; -  <span class="pp"></span> <small> (gilroy)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908885463">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.4345413175356" data-longitude="-121.877748708728" data-pid="3867615511"> <a href="/sby/apa/3867615511.html" class="i" data-id="3r23s13J35I25s85q3d6c224376ea0b701b6c.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3867615511.html">***5 bed 2bath single house***</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2980</span> / 5br -  <span class="pp"></span> <small> (milpitas)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3867615511">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908720856"> <a href="/sby/apa/3908720856.html" class="i" data-id="0:00A0A_3aZNr9cFgtC"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3908720856.html">House for rent</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2650</span> / 3br - 1491ft&sup2; -  <span class="pp"></span> <small> (milpitas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-latitude="37.330893252402" data-longitude="-121.798623237224" data-pid="3908705521"> <a href="/sby/apa/3908705521.html" class="i" data-id="0:00h0h_g3gGNbPAfU1"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3908705521.html">Beautiful Evergreen House</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2850</span> / 4br - 1740ft&sup2; -  <span class="pp"></span> <small> (san jose east)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908705521">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.8208867587715" data-longitude="-121.282674742737" data-pid="3908672841"> <a href="/sby/apa/3908672841.html" class="i" data-id="3L93Ib3N15If5Nd5sbd72e5c416f81ddc1f59.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  2</span></small> <a href="/sby/apa/3908672841.html">Lovely Home in LATHROP</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1700</span> / 4br - 2300ft&sup2; -  <span class="pp"></span> <small> (MANTECA/LATHROP)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908672841">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.0134746339166" data-longitude="-121.593733529697" data-pid="3908625262"> <a href="/sby/apa/3908625262.html" class="i" data-id="0:00Z0Z_gzCqNgHd7Ff"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908625262.html">2 bed 2 1/2 bath </a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1500</span> / 2br -  <span class="pp"></span> <small> (gilroy)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908625262">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.2884370797851" data-longitude="-121.927366853783" data-pid="3908611210"> <a href="/sby/apa/3908611210.html" class="i" data-id="0:00d0d_gWYGJqW7FjN"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908611210.html">Lovely home minutes from downtown Campbell</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2750</span> / 3br - 1400ft&sup2; -  <span class="pp"></span> <small> (campbell)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908611210">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908614181"> <a href="/sby/apa/3908614181.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908614181.html">a single family home for rent</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2800</span> / 3br - 1827ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-latitude="37.322699955932" data-longitude="-121.927653332681" data-pid="3893338061"> <a href="/sby/apa/3893338061.html" class="i" data-id="3Id3M53s25Nc5ra5q3d6pf4f45ef028a81622.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3893338061.html">2 bedrooms</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2500</span> / 2br - 1000ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3893338061">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3294608579142" data-longitude="-121.995262352503" data-pid="3893262630"> <a href="/sby/apa/3893262630.html" class="i" data-id="3K63s93q85rb5Kd5H5d6ofb5cad0c178a19ac.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3893262630.html">2 Bed, 2 Full Bath Available July 1st</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2750</span> / 2br - 1100ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3893262630">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3764433971124" data-longitude="-121.84944459365" data-pid="3868510523"> <a href="/sby/apa/3868510523.html" class="i" data-id="3ta3G93s45Ld5Mc5t1d6d14dd5b94be871fde.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3868510523.html">$2500 / 3br - 8 year old townhouse, Great location, W/D included</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2500</span> / 3br - 1477ft&sup2; -  <span class="pp"></span> <small> (san jose east)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3868510523">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3248771955534" data-longitude="-121.915277444307" data-pid="3908579958"> <a href="/sby/apa/3908579958.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908579958.html">Spanish Charmer, Extra Large Duplex, private garage, Rose Garden Area</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1875</span> / 2br - 1200ft&sup2; -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3908579958">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.348311169373" data-longitude="-121.984433450175" data-pid="3908552322"> <a href="/sby/apa/3908552322.html" class="i" data-id="0:00L0L_h3Coc8LFO8V"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908552322.html">3/2 Single Family House, Very Convenient! </a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2650</span> / 3br - 1166ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908552322">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908478565"> <a href="/sby/apa/3908478565.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908478565.html">Looking for a Pet Friendly Home</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2400</span> / 2br -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-pid="3908462982"> <a href="/sby/apa/3908462982.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908462982.html">*BMR* Beautiful Large 2bedroom</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2207</span> / 2br - 1008ft&sup2; -  <span class="pp"></span> <small> (milpitas)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.2722223741837" data-longitude="-121.872019130777" data-pid="3908468631"> <a href="/sby/apa/3908468631.html" class="i" data-id="3I53s83qd5E75r55Jed71a1f0ffd933cd1d50.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908468631.html">3 bedrooms</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$3000</span> / 3br -  <span class="pp"></span> <small> (South West)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908468631">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3496862680812" data-longitude="-121.877691412948" data-pid="3908434001"> <a href="/sby/apa/3908434001.html" class="i" data-id="0:00F0F_bSZ86FCNtKm"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908434001.html">3 BDRM 1-1/2 BA Upstairs DUPLEX unit</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1895</span> / 3br - 1080ft&sup2; -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908434001">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908224924"> <a href="/sby/apa/3908224924.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908224924.html">Award Winning Community Featuring Spacious Two Bedroom! Hurry!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2465</span> / 2br - 970ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-pid="3908404377"> <a href="/sby/apa/3908404377.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908404377.html">HOUSE 2 STORY 4 BEDROOM AND 2 1/2 BATH</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2600</span> / 4br -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-latitude="37.2863171359432" data-longitude="-121.922783191423" data-pid="3881141000"> <a href="/sby/apa/3881141000.html" class="i" data-id="3t83Gb3qc5G15qf5Jbd6jb7f77769cb5e1608.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3881141000.html">Bright Spacious Upstair 2beds +1 bath Near Santana Row </a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1850</span> / 2br - 987ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3881141000">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3928299900523" data-longitude="-121.948508996423" data-pid="3908329818"> <a href="/sby/apa/3908329818.html" class="i" data-id="0:00A0A_1DVcNknKYUJ"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908329818.html">Don't Miss Out On Our Special Pricing &amp; Discounts!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2895</span> / 2br - 1145ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3908329818">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3189757302639" data-longitude="-121.841022114062" data-pid="3908333382"> <a href="/sby/apa/3908333382.html" class="i" data-id="0:00D0D_fjpirrRRfAh"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908333382.html">2 story 1st class Apartment next to a beautiful pond</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2200</span> / 2br - 1035ft&sup2; -  <span class="pp"></span> <small> (san jose east)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908333382">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3929445816113" data-longitude="-121.853283410877" data-pid="3908342699"> <a href="/sby/apa/3908342699.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908342699.html">Nice Home with Good School</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2600</span> / 3br - 1513ft&sup2; -  <span class="pp"></span> <small> (san jose east)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3908342699">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3990752300189" data-longitude="-122.050037117714" data-pid="3908288593"> <a href="/sby/apa/3908288593.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908288593.html">Make your next move your BEST move!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2250</span> / 3br -  <span class="pp"></span> <small> (sunnyvale)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3908288593">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908337309"> <a href="/sby/apa/3908337309.html" class="i" data-id="0:01111_2XyAzfItHNz"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908337309.html">2 Bedroom 2 Bath, Full Washer and Dryer, Pet Friendly, Gated</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2289</span> / 2br - 1064ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="3908336710"> <a href="/sby/apa/3908336710.html" class="i" data-id="0:00101_7gixlBKju1N"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908336710.html">Top  Floor, Vaulted Ceilings, Apartment Home #1304</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2304</span> / 2br - 1064ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> pic&nbsp;img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3128450818563" data-longitude="-121.938940601244" data-pid="3901578051"> <a href="/sby/apa/3901578051.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3901578051.html">Gorgeous 2 bed/2 ba FURN. condo</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2095</span> / 2br -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3901578051">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3161682370679" data-longitude="-121.931893220365" data-pid="3901582294"> <a href="/sby/apa/3901582294.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3901582294.html">Gorgeous 2/2 condo-remodelled</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1995</span> / 2br - 975ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3901582294">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908309078"> <a href="/sby/apa/3908309078.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908309078.html">2BR/1BA Single Family House</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1800</span> / 2br - 600ft&sup2; -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-pid="3908293405"> <a href="/sby/apa/3908293405.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908293405.html">1 story house for rent</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2300</span> / 2br - 1123ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-latitude="37.279556233961" data-longitude="-121.87511310287" data-pid="3908257168"> <a href="/sby/apa/3908257168.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908257168.html">Great 2 BR, 2 BA with exclusive access to San Jose</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2225</span> / 2br - 1131ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3908257168">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3621194522349" data-longitude="-121.854887692703" data-pid="3908227111"> <a href="/sby/apa/3908227111.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908227111.html">**Available for July End move-in** Top Floor Unit. Visit Today.</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1825</span> / 2br - 834ft&sup2; -  <span class="pp"></span> <small> (san jose east)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3908227111">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908091795"> <a href="/sby/apa/3908091795.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908091795.html">Come see this beautiful one bedroom!! One month free!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2629</span> / 2br - 1003ft&sup2; -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-pid="3908159955"> <a href="/sby/apa/3908159955.html" class="i" data-id="0:01010_9YVmjKeeF8i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908159955.html">Top Floor 2x1 Available for move in 7/26 with Washer/Dryer!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2049</span> / 2br - 950ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3268825478363" data-longitude="-121.898203302013" data-pid="3908157771"> <a href="/sby/apa/3908157771.html" class="i" data-id="0:00q0q_jQFHTgeloJF"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908157771.html">Townhouse Available Now. Below Market Rent Program Requirements</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2650</span> / 3br - 1396ft&sup2; -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3908157771">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.2341206808096" data-longitude="-121.80377985738" data-pid="3908136776"> <a href="/sby/apa/3908136776.html" class="i" data-id="3rb3Ma3F95G45Kc5Fcd71a0eca90b3e611f0a.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908136776.html">Start Your Summer Fun Here! July 15th!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2095</span> / 2br - 980ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908136776">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3312943228585" data-longitude="-121.876889272035" data-pid="3908148805"> <a href="/sby/apa/3908148805.html" class="i" data-id="0:00101_2qh5HPUVq6m"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908148805.html"> 1 bath for rent just walking distance from SJSU</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1600</span> / 2br -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3908148805">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908138836"> <a href="/sby/apa/3908138836.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908138836.html">Stunning Condominium in Santa Clara-Near Great America</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2695</span> / 2br - 1192ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-pid="3908137806"> <a href="/sby/apa/3908137806.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908137806.html">Spacious 4 bedroom 2.5 Bath Two Story Home in Semi-Private Community </a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2595</span> / 4br - 1800ft&sup2; -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-pid="3908134621"> <a href="/sby/apa/3908134621.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908134621.html">Contemporary Loft - Convenient Location</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1995</span> / 2br - 980ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3322683511102" data-longitude="-121.912928317347" data-pid="3908127435"> <a href="/sby/apa/3908127435.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908127435.html">Just steps away from our onsite retail - Starbucks, Subway &amp; Verizon.</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2605</span> / 2br - 1079ft&sup2; -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3908127435">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908114266"> <a href="/sby/apa/3908114266.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908114266.html">Delightful and Bright Condo, Gated Complex, 2 Car Underground Parking</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2550</span> / 3br -  <span class="pp"></span> <small> (campbell)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.2348082301637" data-longitude="-121.832026676679" data-pid="3894330479"> <a href="/sby/apa/3894330479.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3894330479.html">Updated 4 Bedroom, 2 Bathroom House at end of Cul-De-Sac</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2650</span> / 4br -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3894330479">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908098298"> <a href="/sby/apa/3908098298.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908098298.html">Spacious Apartment, Fresh Paint, Granite Counters, Carport, W/D Hkups!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1650</span> / 3br -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3563325785044" data-longitude="-121.956358518215" data-pid="3908048362"> <a href="/sby/apa/3908048362.html" class="i" data-id="0:00H0H_56uLNfZwBL7"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908048362.html">Resort Living In A Pristine Santa Clara Community</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1913</span> / 2br -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3908048362">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.402914047246" data-longitude="-121.881530230175" data-pid="3908004072"> <a href="/sby/apa/3908004072.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908004072.html">Two Bedroom With Walk In Closet and Detached Garage Available July 8th</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2159</span> / 2br - 923ft&sup2; -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3908004072">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3563898742839" data-longitude="-121.956415813995" data-pid="3908062073"> <a href="/sby/apa/3908062073.html" class="i" data-id="0:00C0C_eReD3m1W48d"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908062073.html">Relax On Your Private Patio, Poolside Cabana Or Enjoy A Game Of Tennis</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2548</span> / 3br -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3908062073">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3908056231"> <a href="/sby/apa/3908056231.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908056231.html">3 Bedroom 2 Bath Single Family Home in Santa Clara</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2795</span> / 3br - 1200ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3545564093396" data-longitude="-122.005346409696" data-pid="3908026892"> <a href="/sby/apa/3908026892.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908026892.html">Gorgeous two bedroom in perfect Sunnyvale location</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2054</span> / 2br -  <span class="pp"></span> <small> (sunnyvale)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3908026892">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.2471268227584" data-longitude="-121.864456087881" data-pid="3908011564"> <a href="/sby/apa/3908011564.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3908011564.html">3 Bedroom new carpet, new paint!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1995</span> / 3br - 1200ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3908011564">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.4519592345066" data-longitude="-121.917569275487" data-pid="3902472887"> <a href="/sby/apa/3902472887.html" class="i" data-id="3rd3M53H65La5Eb5J1d6s5b212fdc9dc31043.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3902472887.html">Beautiful Townhouse available for rent</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2800</span> / 3br - 1547ft&sup2; -  <span class="pp"></span> <small> (milpitas)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3902472887">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3906527504309" data-longitude="-122.044021060866" data-pid="3907952738"> <a href="/sby/apa/3907952738.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907952738.html">SummerTime @ SummerHill Park?! I think YESSS!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2462</span> / 2br - 900ft&sup2; -  <span class="pp"></span> <small> (sunnyvale)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907952738">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907946964"> <a href="/sby/apa/3907946964.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907946964.html">Come Live in Luxury Today!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1907</span> / 2br -  <span class="pp"></span> <small> (campbell)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-pid="3907936782"> <a href="/sby/apa/3907936782.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907936782.html">SAN JOSE DOWNTOWN - DUPLEX - FRONT UNIT - convenient location</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1700</span> / 2br -  <span class="pp"></span> <small> (san jose downtown)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3906527504309" data-longitude="-122.044021060866" data-pid="3907934916"> <a href="/sby/apa/3907934916.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907934916.html">Beautifully Laid Out 2x1 on the GROUND FLOOR {No Stairs!}</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2462</span> / 2br - 900ft&sup2; -  <span class="pp"></span> <small> (sunnyvale)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907934916">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.356962832079" data-longitude="-122.000590859997" data-pid="3907910066"> <a href="/sby/apa/3907910066.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907910066.html">Remodeled 2 bdrm top floor - view virtual tour</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2200</span> / 2br - 920ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3907910066">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3041934191503" data-longitude="-121.809910505788" data-pid="3907799478"> <a href="/sby/apa/3907799478.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907799478.html">SINGLE ONE STORY HOME IN EVERGREEN AREA 4 BR /3 FULL BA. AVAIL. NOW</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2989</span> / 4br -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="3907799478">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3118710536046" data-longitude="-121.805040364529" data-pid="3907854183"> <a href="/sby/apa/3907854183.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907854183.html">A Unique Two Bedroom Layout! Very Open and Inviting!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1960</span> / 2br - 901ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907854183">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.4547667277026" data-longitude="-121.91963192355" data-pid="3907901849"> <a href="/sby/apa/3907901849.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907901849.html">Just the place! 2 master suites with large open livingroom. Washer/dry</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2335</span> / 2br - 1013ft&sup2; -  <span class="pp"></span> <small> (milpitas)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907901849">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907852375"> <a href="/sby/apa/3907852375.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907852375.html">Get What You have Been Asking for On Your Wish List</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2515</span> / 2br - 1318ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3563325785044" data-longitude="-121.956415813995" data-pid="3907857981"> <a href="/sby/apa/3907857981.html" class="i" data-id="0:00Y0Y_kDGxLlLxO3w"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907857981.html">A Quiet Retreat to Live &amp; Work w/Private Patio in Prime Location </a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2528</span> / 3br -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3907857981">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.2414545405869" data-longitude="-121.949368433115" data-pid="3907883182"> <a href="/sby/apa/3907883182.html" class="i" data-id="0:00X0X_lo33Mh4nz8Z"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907883182.html">Los Gatos Single-Family House for Rent</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2700</span> / 2br - 1000ft&sup2; -  <span class="pp"></span> <small> (los gatos)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3907883182">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3377687459432" data-longitude="-121.987756605387" data-pid="3907848224"> <a href="/sby/apa/3907848224.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907848224.html">Life is about Choices...Live at the LUXE!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2225</span> / 2br - 942ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907848224">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.2353238921793" data-longitude="-121.968046857235" data-pid="3907847662"> <a href="/sby/apa/3907847662.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907847662.html">Newly Renovated 2bd/1Ba Red Branch Apartment Homes</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2800</span> / 2br - 1000ft&sup2; -  <span class="pp"></span> <small> (los gatos)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907847662">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907818305"> <a href="/sby/apa/3907818305.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907818305.html">Gorgeous and Completely Renovated 2BD Condo</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1950</span> / 2br - 712ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.2343498639276" data-longitude="-121.80377985738" data-pid="3907837372"> <a href="/sby/apa/3907837372.html" class="i" data-id="3r63Nc3q25L35Ge5Mcd71a74f502890e01b10.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907837372.html">San Jose's Best kept secret!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2095</span> / 2br - 980ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3907837372">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3211529698853" data-longitude="-121.982485393672" data-pid="3907820212"> <a href="/sby/apa/3907820212.html" class="i" data-id="3t73sd3N75Nf5M85Jad717b8e69e70c561167.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907820212.html">2 Bed/1 Bath Beautiful Condo with Cupertino Schools</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2200</span> / 2br - 924ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3907820212">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.0155372819789" data-longitude="-121.591556290075" data-pid="3907807677"> <a href="/sby/apa/3907807677.html" class="i" data-id="0:01313_7TGvnfacI6A"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907807677.html">Apply Today, Professionally Managed, Pool and Spa</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1670</span> / 2br - 838ft&sup2; -  <span class="pp"></span> <small> (gilroy)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3907807677">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.4074977096068" data-longitude="-121.936534178505" data-pid="3907777238"> <a href="/sby/apa/3907777238.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907777238.html">Charming Two bedroom With Luxurious Amenities! In-home Washer &amp; Dryer!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2720</span> / 2br - 991ft&sup2; -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907777238">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.4135710622349" data-longitude="-121.903875584184" data-pid="3894492133"> <a href="/sby/apa/3894492133.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3894492133.html">Modern Living is HERE!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2621</span> / 2br - 1035ft&sup2; -  <span class="pp"></span> <small> (milpitas)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3894492133">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907787342"> <a href="/sby/apa/3907787342.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907787342.html">Bright and Completely Remodeled 2 Bedroom 1.5 Townhouse in Cupertino</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2395</span> / 2br - 900ft&sup2; -  <span class="pp"></span> <small> (cupertino)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.1389523910435" data-longitude="-121.611094150888" data-pid="3907781430"> <a href="/sby/apa/3907781430.html" class="i" data-id="3Eb3Ka3qd5sb5q15M1d719746b6ea4ca214fc.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907781430.html">Morgan Village Condo</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2150</span> / 3br -  <span class="pp"></span> <small> (morgan hill)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3907781430">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3774747211436" data-longitude="-122.060293062247" data-pid="3907777956"> <a href="/sby/apa/3907777956.html" class="i" data-id="0:00I0I_d6SAItxao8x"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907777956.html">Pet Friendly</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2244</span> / 2br - 874ft&sup2; -  <span class="pp"></span> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3907777956">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907715864"> <a href="/sby/apa/3907715864.html" class="i" data-id="0:00P0P_jzJQLx05nNg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907715864.html">Double Master Apartment, Laundry inside Unit, A/C, Upstair Unit</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2250</span> / 2br - 1143ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-latitude="37.31124080003" data-longitude="-121.881874004852" data-pid="3907695717"> <a href="/sby/apa/3907695717.html" class="i" data-id="3F33Lf3sf5Gc5K15t7d71e0912e650bc21ff1.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907695717.html">$1850 / 2br - Beautiful remodeled condo in great location </a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1850</span> / 2br - 900ft&sup2; -  <span class="pp"></span> <small> (willow glen / cambrian)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3907695717">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.4080706674019" data-longitude="-121.889895413984" data-pid="3907665938"> <a href="/sby/apa/3907665938.html" class="i" data-id="3Le3Jb3H25rd5s35Jdd71cd232e288e381cfb.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907665938.html">Stop looking &amp; Start LIVING! (2 bed/2 bath)</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2195</span> / 2br - 1082ft&sup2; -  <span class="pp"></span> <small> (milpitas)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3907665938">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907671533"> <a href="/sby/apa/3907671533.html" class="i" data-id="0:00o0o_1czEZLhY9R8"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907671533.html"> 2x2, pergo floor, granite countertops,pool</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1988</span> / 2br - 1040ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-latitude="36.843879126567" data-longitude="-121.384145568249" data-pid="3907651144"> <a href="/sby/apa/3907651144.html" class="i" data-id="0:00K0K_d6vUOSxsRzK"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907651144.html">2 BR 2 1/2 BA TOWNHOUSE-1CAR GARAGE-1080 SQ FT-SML YRD</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1300</span> / 2br - 1080ft&sup2; -  <span class="pp"></span> <small> (hollister)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3907651144">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907642687"> <a href="/sby/apa/3907642687.html" class="i" data-id="0:00r0r_eudcxlDfWPU"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907642687.html">Need More Space? 3x2 Ready for Immediate Move-In!!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2748</span> / 3br - 1270ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img</span></span> </span>  </span> </p> <p class="row" data-pid="3907596188"> <a href="/sby/apa/3907596188.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907596188.html">TOP Floor!! Spacious with great sunlight! Close to VTA transportation!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2710</span> / 2br - 966ft&sup2; -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3615464944398" data-longitude="-121.963291307536" data-pid="3907579255"> <a href="/sby/apa/3907579255.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907579255.html">Life is About Choices, This one is Easy - Old Orchard Apartments!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2145</span> / 2br - 900ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907579255">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907617242"> <a href="/sby/apa/3907617242.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907617242.html">Awesome Newly Renovated Homes w/ Tons of Amenities to Enjoy.</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1975</span> / 2br - 825ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-pid="3907612197"> <a href="/sby/apa/3907612197.html" class="i" data-id="0:00r0r_eudcxlDfWPU"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907612197.html">Need More Space? 3x2 Ready for Immediate Move-In!!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2748</span> / 3br -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img</span></span> </span>  </span> </p> <p class="row" data-pid="3907509102"> <a href="/sby/apa/3907509102.html" class="i" data-id="3r13Fa3s45N95rb5tcd7163a172505a3d1d5c.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907509102.html">Special......Ground floor south facing corner unit </a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1828</span> / 2br -  <span class="pp"></span> <small> (gilroy)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-latitude="37.4064090897962" data-longitude="-121.941633502881" data-pid="3907595143"> <a href="/sby/apa/3907595143.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907595143.html">Perfect For Room Mates! Dual Master 2x2</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2930</span> / 2br - 1132ft&sup2; -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907595143">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3208664909877" data-longitude="-121.97566719591" data-pid="3907523727"> <a href="/sby/apa/3907523727.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907523727.html">Award winning schools!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2345</span> / 2br - 1081ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907523727">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907576190"> <a href="/sby/apa/3907576190.html" class="i" data-id="0:00606_26dvbe1XfK8"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907576190.html">San Juan Bautista remodeled home for lease</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1700</span> / 3br - 1050ft&sup2; -  <span class="pp"></span> <small> (hollister)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="3907575771"> <a href="/sby/apa/3907575771.html" class="i" data-id="0:00N0N_ivZCTNbpRde"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907575771.html">Awesome Upgraded 2x2 Available for Rent!  Washer&amp;Dryer</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2384</span> / 2br - 1070ft&sup2; -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.402914047246" data-longitude="-121.881530230175" data-pid="3907519658"> <a href="/sby/apa/3907519658.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907519658.html">Great Sunlight, Great Location, and a Great Time to Call eaves Home</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2152</span> / 2br - 983ft&sup2; -  <span class="pp"></span> <small> (san jose north)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907519658">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3563325785044" data-longitude="-121.956301222436" data-pid="3907560929"> <a href="/sby/apa/3907560929.html" class="i" data-id="0:00H0H_56uLNfZwBL7"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907560929.html">Resort Amenities, Great Location, Lucky Find!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1926</span> / 2br -  <span class="pp"></span> <small> (santa clara)</small> <span class="px"> <span class="p"> pic&nbsp;img&nbsp;<a href="#" class="maptag" data-pid="3907560929">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.3545564093396" data-longitude="-122.005346409696" data-pid="3907520877"> <a href="/sby/apa/3907520877.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907520877.html">Prime Silicon Valley Location with Tranquil Views</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2054</span> / 2br -  <span class="pp"></span> <small> (sunnyvale)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="3907520877">map</a></span></span> </span>  </span> </p> <p class="row" data-latitude="37.2515385977806" data-longitude="-121.814551463928" data-pid="3897901088"> <a href="/sby/apa/3897901088.html" class="i" data-id="3K13s83q65r65F55tcd6q9405492974e6183c.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3897901088.html">Beautiful home for rent *Open House on Tuesday, July 2 at 7:00-8:00PM*</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2450</span> / 3br - 1546ft&sup2; -  <span class="pp"></span> <small> (san jose south)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3897901088">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907545539"> <a href="/sby/apa/3907545539.html" class="i" data-id="3t63sa3J25I65Ka5Ffd71e6578dc7d97e14f5.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907545539.html">House for rent</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$3000</span> / 3br - 1125ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-latitude="37.3106678422349" data-longitude="-121.917970345944" data-pid="3907533094"> <a href="/sby/apa/3907533094.html" class="i" data-id="0:00303_43o43dQFdHz"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907533094.html">Spacious 2x1 with large enclosed patio!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$1795</span> / 2br - 850ft&sup2; -  <span class="pp"></span> <small> (san jose west)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3907533094">map</a></span></span> </span>  </span> </p> <p class="row" data-pid="3907504817"> <a href="/sby/apa/3907504817.html" class="i"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3907504817.html">Explore Your Quiet Side with Room For An In-Home Meditation Studio!</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2284</span> / 2br - 1003ft&sup2; -  <span class="pp"></span> <small> (San Jose North)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p> <p class="row" data-latitude="37.322241589696" data-longitude="-122.02018601659" data-pid="3868776123"> <a href="/sby/apa/3868776123.html" class="i" data-id="3Fc3L63H45r55s95tbd6dded27c2e663f1f04.jpg"></a> <span class="pl"> <span class="star"></span> <small> <span class="date">Jul  1</span></small> <a href="/sby/apa/3868776123.html">2 Bed/2.5 Bath Two Story Townhouse ( 19823 Portal Plaza )</a> </span> <span class="l2"> <span class="pnr"> <span class="price">$2600</span> / 2br - 1166ft&sup2; -  <span class="pp"></span> <small> (cupertino)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="3868776123">map</a></span></span> </span>  </span> </p><h4 class="ban resultshdr">
+	
+
+	<span class="nplink first" title="first page">
+		<a href='http://sfbay.craigslist.org/search/apa/sby?bedrooms=2&amp;maxAsk=3000&amp;srchType=A'>
+			|&lt;<span class="nplabel">first</span>
+		</a>
+	</span>
+	<div class="npcontrols">
+		<div class="npcontrolcenter">
+			<span class="nplink prev" title="previous page">
+				<a href='http://sfbay.craigslist.org/search/apa/sby?s=1000&bedrooms=2&amp;maxAsk=3000&amp;srchType=A'>
+					&lt;<span class="nplabel">prev</span>
+				</a>
+			</span>
+			<span class="nplink next" title="next page">
+				<a href='http://sfbay.craigslist.org/search/apa/sby?s=1200&bedrooms=2&amp;maxAsk=3000&amp;srchType=A'>
+					<span class="nplabel">next</span>&gt;
+				</a>
+			</span>
+			<span class="pagenum">1101 - 1200</span>
+		</div>
+	</div>
+</h4>
+
+
+			
+
+			<div id="floater">
+				<img class="loading" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+				<img class="payload" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+			</div>
+
+			</blockquote>
+		</section>
+		
+		<ul id="fmtsel">
+	<li><b>FORMAT:</b></li>
+	<li class="fsel" data-mode="mobile">mobile</li>
+	<li class="fsel" data-mode="regular">regular</li>
+</ul>
+
+<footer>
+	
+			<span class="rss">
+				<a class="l" href="http://sfbay.craigslist.org/search/apa/sby?bedrooms=2&amp;maxAsk=3000&amp;s=1100&amp;srchType=A&amp;format=rss">RSS</a>
+				<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+			</span>
+			
+	<ul class="clfooter">
+		<li>&copy; 2013 craigslist</li>
+		<li><a href="//www.craigslist.org/about/help/">help</a></li>
+		<li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+		<li><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+		<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+		<li><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+		<li><a href="//www.craigslist.org/about/">about</a></li>
+		<li><a href="//www.craigslist.org/about/craigslist_is_hiring" style="color: #0b0">cl jobs</a></li>
+	</ul>
+</footer>
+
+	</article>
+	<!--[if lte IE 7]>
+		<script type="text/javascript" src="//www.craigslist.org/js/json2.js?v=c1da07f5953739dffc17fd1db3c5313c"></script>
+	<![endif]-->
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-1.9.1.js?v=56eaef3b8a28d9d45bb4f86004b0eaae"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-ui-1.9.2.custom.js?v=32c38510c8db71f2fbef00da891aeaac"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/formats.js?v=ba1c4f06afea8250d2ea8864c9bece08"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/toChecklist.js?v=b163a7aa23a6dad79076f92e56c622f7"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery.form-defaults.js?v=421648d06bad2f29bbfc2f66c5205aeb"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/cookie.js?v=0cce2559d540be0bb52211e4105921c4"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/localstorage.js?v=0dcff58ebaf4af52c0b82d96a5fd7000"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/tocs.js?v=ba760e5210704a1dae693475a1e72bdc"></script>
+	<script type="text/javascript" src="//www.craigslist.org/js/favorites.js?v=0cfed33a4437b25490c10b7ef176cafc"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/search-suggestions.js?v=0a8fbde1d8aaeb2f28317aadcc11f14d"></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/postings.js?v=b17a7bf5ec42baf99fa171a6fe3de6ad"></script>
+    
+</body>
+</html>
