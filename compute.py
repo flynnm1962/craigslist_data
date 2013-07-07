@@ -27,8 +27,8 @@ for file in os.listdir(folder):
           if loc.startswith("loc%3A+"):
             loc = loc[7:]
           times = []
-          for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&mode=walking&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,)]:
-            time.sleep(2.0)
+          for googleapi in ["http://maps.googleapis.com/maps/api/directions/json?sensor=false&origin=701+1st+Ave,+Sunnyvale,+CA&destination=%s" % (loc,), "http://maps.googleapis.com/maps/api/directions/json?sensor=false&3825+Fabian+Way,+Palo+Alto,+CA+94303&destination=%s" % (loc,)]:
+            time.sleep(2.1)
             opened = urllib2.urlopen(googleapi)
             x = opened.read()
             opened.close()
@@ -38,6 +38,6 @@ for file in os.listdir(folder):
             except IndexError:
               print vals
               raise
-          print "http://sfbay.craigslist.org/sby/apa/"+file,price,times[0]
+          print "http://sfbay.craigslist.org/sby/apa/"+file,price,times[0],times[1]
           sys.stdout.flush()
           break
