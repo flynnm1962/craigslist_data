@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html class="no-js"><head>
+    <title>SF bay area apts/housing for rent classifieds  - craigslist</title>
+
+    <meta name="description" content="SF bay area apts/housing for rent classifieds  - craigslist">
+    <link rel="alternate" type="application/rss+xml" href="http://sfbay.craigslist.org/search/pen/apa?bedrooms=2&amp;maxAsk=3000&amp;nh=70&amp;nh=76&amp;nh=78&amp;nh=79&amp;nh=81&amp;nh=83&amp;s=0&amp;sale_date=-&amp;format=rss" title="RSS feed for craigslist | apts/housing for rent  in SF bay area ">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=c574b89bce9008f225c811d1c01e4898">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-1.9.2.custom.css?v=86db72e37d2cf63cab3c63485c71becb">
+    <link rel="prefetch" href="//www.craigslist.org/js/postings-concat.min.js?v=a5c1768d6e13c600b3adf70650090bd4">
+    
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet-stock.css?v=ea2cbe352bcad5eae1c267a9dd15a5c1">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=c9937ed03fbb57f185493cd8c283efeb">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=12034f369d034689e646780a98e37c60">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+    
+        <script type="text/javascript"><!--
+            var currencySymbol = "&#x0024;";
+var areaRegion = "CA";
+var zoomToPosting = null;
+var showInfoText = "show info";
+var subarea = "pen";
+var imageHost = "http://images.craigslist.org";
+var lessInfoText = "less info";
+var showMapTabs = 1;
+var areaCountry = "US";
+var areaID = "1";
+var starHint = "save this post in your favorites list";
+var expFaves = "";
+var pID = null;
+var catAbb = "apa";
+var catType = "hhh";
+
+        --></script>
+    
+    <!--[if lt IE 9]>
+<script  src="//www.craigslist.org/js/html5shiv.min.js?v=42e8031bc7ca9d67a48f4a5feff7bf29" type="text/javascript" ></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<script  src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+<![endif]-->
+</head>
+
+<body class="toc search">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0];
+        var fmt = C('cl_fmt');
+        if (fmt) {
+            pagemode = fmt;
+            bodyClassList.push(fmt);
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+            bodyClassList.push(pagemode);
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof catType !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(catType + ':([^,]+)', 'i')) || {})[1];
+            for (var i = 0, len = bodyClassList.length; i < len; i++){
+                if (bodyClassList[i] === 'map') { mode = undefined; }
+            }
+            if (mode) { bodyClassList.push(mode); }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <article id="pagecontainer">
+
+        <header class="bchead">
+	<form id="breadcrumbform" method="get" action="/search/pen/apa" data-action="/search/###/apa">
+		<input type='hidden' name='sale_date' value='-'><input type='hidden' name='maxAsk' value='3000'><input type='hidden' name='bedrooms' value='2'>
+		<div class="contents closed">
+			<div class="breadbox">
+				<div class="mi post"><a href="https://post.craigslist.org/c/sfo?lang=en">post</a></div>
+				<div class="mi account"><em>[ </em><a href="https://accounts.craigslist.org">account</a><em> ]</em></div>
+				<div class="mi fav"><div id="favorites">
+    <a href="#" class="favlink"><span class="n">0</span> favorites</a>
+</div></div>
+				<span class="crumb"><a href="//www.craigslist.org/about/sites">CL</a> &gt;</span><span class="crumb"><a href="/">SF bay area</a> &gt;</span><span class="crumb"><select id="subAbb" name="subAbb">
+<option value=''>all SF bay area</option><option value='sfc'>san francisco</option><option value='sby'>south bay</option><option value='eby'>east bay</option><option value='pen' selected>peninsula</option><option value='nby'>north bay</option><option value='scz'>santa cruz</option>
+</select> <span class="no-js"> <input type="submit" value="go"></span></span>
+			</div>
+			<div class="dropdown">&mdash; &mdash; &mdash;</div>
+		</div>
+	</form>
+</header>
+
+        <blockquote class="searchform">
+            
+        <script type="text/javascript"><!--
+            var catAbb = "apa";
+
+        --></script>
+    
+<form action="/search/apa/pen" id="searchform" method="get" accept-charset="utf-8">
+	<input id="zoomtoposting" type="hidden" name="zoomToPosting" value="">
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend"><select id="catAbb" name="catAbb">
+
+                <option value="ccc">all community</option>
+
+                <option value="eee">all event</option>
+
+                <option value="sss">all for sale / wanted</option>
+
+                <option value="ggg">all gigs</option>
+
+                <option value="hhh">all housing</option>
+<option disabled value="">--</option>
+<option value=""> </option>
+<option value="apa" selected> apts/housing for rent</option>
+<option value="hou"> apts wanted</option>
+<option value="swp"> housing swap</option>
+<option value="hsw"> housing wanted</option>
+<option value="off"> office &amp; commercial</option>
+<option value="prk"> parking &amp; storage</option>
+<option data-acat="rea" value="reb"> real estate - by broker</option>
+<option data-acat="rea" value="reo"> real estate - by owner</option>
+<option value="rea"> real estate for sale</option>
+<option value="rew"> real estate wanted</option>
+<option value="roo"> rooms &amp; shares</option>
+<option value="sha"> rooms wanted</option>
+<option value="sub"> sublets &amp; temporary</option>
+<option value="sbw"> sublet/temp wanted</option>
+<option value="vac"> vacation rentals</option>
+<option disabled value="">--</option>
+
+                <option value="jjj">all jobs</option>
+
+                <option value="ppp">all personals</option>
+
+                <option value="res">all resume</option>
+
+                <option value="bbb">all services offered</option>
+</select></legend>
+	<div class="experimentalFeature">
+    	     
+    	</div>
+	<div id="searchtable">
+		<span class="searchgroup">
+			<span>
+				<input id="query" name="query" data-suggest="search" size="24" maxlength="180" value="" placeholder="search" autocorrect="off" autocapitalize="off">
+			</span>
+			<input id="searchbtn" type="submit" value="search">
+		</span>
+
+		<span class="searchgroup"><label><span>open house on:</span> <select class="submit_on_change" id="sale_date" name="sale_date">
+<option value="-">-</option>
+<option value="2014-06-09">2014-06-09 (today)</option>
+<option value="2014-06-10">2014-06-10 (tomorrow)</option>
+<option value="2014-06-11">2014-06-11 (wednesday)</option>
+<option value="2014-06-12">2014-06-12 (thursday)</option>
+<option value="2014-06-13">2014-06-13 (friday)</option>
+<option value="2014-06-14">2014-06-14 (saturday)</option>
+<option value="2014-06-15">2014-06-15 (sunday)</option>
+<option value="2014-06-16">2014-06-16 (monday)</option>
+<option value="2014-06-17">2014-06-17 (tuesday)</option>
+<option value="2014-06-18">2014-06-18 (wednesday)</option>
+<option value="2014-06-19">2014-06-19 (thursday)</option>
+<option value="2014-06-20">2014-06-20 (friday)</option>
+<option value="2014-06-21">2014-06-21 (saturday)</option>
+<option value="2014-06-22">2014-06-22 (sunday)</option>
+
+</select></label></span><span class="searchgroup">
+	rent:
+	<input name="minAsk" class="min" size="5" placeholder="min" value="">
+	<input name="maxAsk" class="max" size="5" placeholder="max" value="3000">
+</span>
+
+		
+<span class="searchgroup">
+<select name="bedrooms">
+	<option value="">0+ BR</option>
+<option value="1">1+ BR</option>
+<option value="2" selected="selected">2+ BR</option>
+<option value="3">3+ BR</option>
+<option value="4">4+ BR</option>
+<option value="5">5+ BR</option>
+<option value="6">6+ BR</option>
+<option value="7">7+ BR</option>
+<option value="8">8+ BR</option>
+
+</select>
+<select name="housing_type">
+	<option value="">any housing type</option>
+<option value="1"  >apartment</option><option value="2"  >condo</option><option value="3"  >cottage/cabin</option><option value="4"  >duplex</option><option value="5"  >flat</option><option value="6"  >house</option><option value="7"  >in-law</option><option value="8"  >loft</option><option value="9"  >townhouse</option><option value="10"  >manufactured</option><option value="11"  >assisted living</option><option value="12"  >land</option>
+</select>
+</span><span class="searchgroup">
+	<label>
+		<input type="checkbox" name="pets_cat"  value="purrr">cats
+	</label>
+	<label>
+		<input type="checkbox" name="pets_dog" value="wooof">dogs
+	</label>
+</span>
+
+		<span class="searchgroup"><span id="hoodpicker"><span class="searchgroup">
+<div style="position: relative;">
+    <noscript>
+        <select name="nh">
+            <option value="">all neighborhoods</option>
+            <option value="70" selected = "selected">atherton</option>
+<option value="71">belmont</option>
+<option value="73">brisbane</option>
+<option value="74">burlingame</option>
+<option value="115">coastside/pescadero</option>
+<option value="75">daly city</option>
+<option value="76" selected = "selected">east palo alto</option>
+<option value="77">foster city</option>
+<option value="161">half moon bay</option>
+<option value="78" selected = "selected">los altos</option>
+<option value="79" selected = "selected">menlo park</option>
+<option value="80">millbrae</option>
+<option value="81" selected = "selected">mountain view</option>
+<option value="82">pacifica</option>
+<option value="83" selected = "selected">palo alto</option>
+<option value="163">portola valley</option>
+<option value="84">redwood city</option>
+<option value="85">redwood shores</option>
+<option value="86">san bruno</option>
+<option value="87">san carlos</option>
+<option value="88">san mateo</option>
+<option value="89">south san francisco</option>
+<option value="162">woodside</option>
+
+        </select>
+    </noscript>
+
+    <button id="hoodtitle" type="button" style="display:none;">
+        <span id="hoodtogon">[+]</span><span id="hoodtogoff">[-]</span>
+        <span id="hoodcount">all</span> neighborhoods
+    </button>
+    <select name="nh" id="nh" multiple="multiple" disabled="disabled">
+        <option id="all" value="">all neighborhoods</option>
+        <option value="70" selected = "selected">atherton</option>
+<option value="71">belmont</option>
+<option value="73">brisbane</option>
+<option value="74">burlingame</option>
+<option value="115">coastside/pescadero</option>
+<option value="75">daly city</option>
+<option value="76" selected = "selected">east palo alto</option>
+<option value="77">foster city</option>
+<option value="161">half moon bay</option>
+<option value="78" selected = "selected">los altos</option>
+<option value="79" selected = "selected">menlo park</option>
+<option value="80">millbrae</option>
+<option value="81" selected = "selected">mountain view</option>
+<option value="82">pacifica</option>
+<option value="83" selected = "selected">palo alto</option>
+<option value="163">portola valley</option>
+<option value="84">redwood city</option>
+<option value="85">redwood shores</option>
+<option value="86">san bruno</option>
+<option value="87">san carlos</option>
+<option value="88">san mateo</option>
+<option value="89">south san francisco</option>
+<option value="162">woodside</option>
+
+    </select>
+</div>
+</span></span></span>
+		<span class="searchgroup">
+			<label>
+				<input type="checkbox" name="hasPic" value="1" ><span class="haspic">pic</span>
+			</label>
+			<label>
+					<input type="checkbox" name="srchType" value="T"
+					title="search only posting titles">title
+			</label>
+		</span>
+
+		<span class="searchgroup"><span class="savesearch">[<a href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttp%253A%252F%252Fsfbay%252Ecraigslist%252Eorg%252Fsearch%252Fpen%252Fapa%253Fbedrooms%253D2%2526maxAsk%253D3000%2526nh%253D70%2526nh%253D76%2526nh%253D78%2526nh%253D79%2526nh%253D81%2526nh%253D83%2526s%253D0%2526sale%255Fdate%253D%252D" title="save this search">save</a> / <a href="https://accounts.craigslist.org/login?rt=L&rp=/?show_tab=searches" title="view my searches">view</a> searches]</span></span>
+
+	</div>
+    </fieldset>
+	<input id="excats" type="hidden" name="excats" value="">
+</form>
+        </blockquote>
+
+        
+
+        <section class="body">
+            <section class="favlistinfo">
+                
+                
+            </section>
+
+            <div id="toc_rows">
+                <div class="toc_legend">
+                    <div class="center">
+                        <span class="tocview buttongroup js-only"><a href="#list" title="show results in a list" class="mode button" data-view="list" id="listview">list</a><a href="#pic" title="show results in a list with thumbnail pictures" class="mode button" data-view="pic" id="picview">thumb</a><a href="#grid" title="show results side-by-side with larger pictures" class="mode button" data-view="grid" id="gridview">gallery</a><a href="#map" title="show results on a map" class="mapview mode button" data-view="map" id="mapview">map</a></span>
+
+<span class="paginator buttongroup">
+<span class="resulttotal">displaying <span class='displaycount'>...</span> of 76 postings</span><span class="buttons"><span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 76 </span><span class="button next" title="next page"> next &gt; </span></span>
+</span><span class="tocsort buttongroup"><span class="button sel">newest</span><a class="button" title="sort by price, lowest to highest" href="/search/pen/apa?sort=priceasc&bedrooms=2&amp;maxAsk=3000&amp;nh=70&amp;nh=76&amp;nh=78&amp;nh=79&amp;nh=81&amp;nh=83&amp;sale_date=-"><span class='pricesort'><span class='pricesort'>&#x0024;</span>&#x0024;</span>&#x0024;</a><a class="button" title="sort by price, highest to lowest" href="/search/pen/apa?sort=pricedsc&bedrooms=2&amp;maxAsk=3000&amp;nh=70&amp;nh=76&amp;nh=78&amp;nh=79&amp;nh=81&amp;nh=83&amp;sale_date=-">&#x0024;<span class='pricesort'>&#x0024;<span class='pricesort'>&#x0024;</span></span></a></span>
+                    </div>
+                    
+                </div>
+
+                <div class="content">
+                    
+                     <p class="row" data-pid="4512749342"> <a href="/pen/apa/4512749342.html" class="i" data-id="0:00S0S_8fXrbQZCRaQ"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4512749342.html">Inviting place open right now</a> </span> <span class="l2">  <span class="price">&#x0024;1825</span> / 2br - 1100ft&sup2; -  <span class="pnr"> <small> (atherton)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="4495961375"> <a href="/pen/apa/4495961375.html" class="i" data-id="0:00707_32KpDal1n7B"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4495961375.html">2-BR, 2-Bath Unit Fully upgraded, painted and flooring!!!!</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br - 790ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4495961375">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4512618531"> <a href="/pen/apa/4512618531.html" class="i" data-id="0:00W0W_4QeBzItzQCG"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4512618531.html">Where Do You See Yourself At, Soon?</a> </span> <span class="l2">  <span class="price">&#x0024;2150</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4512618531">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4470265871"> <a href="/pen/apa/4470265871.html" class="i" data-id="0:00d0d_blUGxAYaGRz"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4470265871.html">Upstairs and Spacious!</a> </span> <span class="l2">  <span class="price">&#x0024;2495</span> / 2br - 1000ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4470265871">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4512431907"> <a href="/pen/apa/4512431907.html" class="i" data-id="0:00g0g_6WDAbu4PCRh"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4512431907.html">Location, Comfort and Convenience at its BEST</a> </span> <span class="l2">  <span class="price">&#x0024;2235</span> / 2br - 967ft&sup2; -  <span class="pnr"> <small> (east palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4512431907">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4512454737"> <a href="/pen/apa/4512454737.html" class="i" data-id="0:00404_69ERvBhn8Fh"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4512454737.html">Beautiful Second Floor Apartment, in a Gated Complex</a> </span> <span class="l2">  <span class="price">&#x0024;2425</span> / 2br -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4512454737">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4505897585"> <a href="/pen/apa/4505897585.html" class="i" data-id="0:00U0U_ajvUdJpYyhK"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4505897585.html">Coming Soon! Wonderful, Newly Renovated 2 Bedroom, 1 Bath Apartment!</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br - 900ft&sup2; -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4505897585">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4512040042"> <a href="/pen/apa/4512040042.html" class="i" data-id="0:00a0a_2j1iYkcIzIh"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4512040042.html">Charming Mtn View Location*A must see*pets welcome!!</a> </span> <span class="l2">  <span class="price">&#x0024;2696</span> / 2br - 1100ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4512040042">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4512198017"> <a href="/pen/apa/4512198017.html" class="i" data-id="0:00T0T_f1aFoJiYSbY"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4512198017.html">2 Left! Ultra Updated 2 BR - Washer Dryer, Wood Finish Fl, Gas Stove</a> </span> <span class="l2">  <span class="price">&#x0024;2855</span> / 2br - 960ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4512198017">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4505997179"> <a href="/pen/apa/4505997179.html" class="i" data-id="0:00M0M_eGbVC7rXzDb"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4505997179.html">94 Amherst, Menlo Park / Open House Sat 6/7 12:-12:30pm</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4505997179">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4505808231"> <a href="/pen/apa/4505808231.html" class="i" data-id="0:00i0i_6p29vdgTYQ9"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4505808231.html">2 BR Park Regent  center of Mt View</a> </span> <span class="l2">  <span class="price">&#x0024;2499</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4505808231">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4512004364"> <a href="/pen/apa/4512004364.html" class="i" data-id="0:00p0p_6Kjll2tpooB"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4512004364.html">COME EXPERIENCE BETTER LIVING</a> </span> <span class="l2">  <span class="price">&#x0024;2445</span> / 2br - 996ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4512004364">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4507690160"> <a href="/pen/apa/4507690160.html" class="i" data-id="0:00i0i_6p29vdgTYQ9"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4507690160.html">Great Price for 2BR in center of Mt. View</a> </span> <span class="l2">  <span class="price">&#x0024;2499</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4507690160">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4511954475"> <a href="/pen/apa/4511954475.html" class="i" data-id="0:00Q0Q_9eNYwDfrKWt"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4511954475.html">Private bike lockers, ample storage, walk to grocery, come visit today</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br - 910ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4511954475">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4482399015"> <a href="/pen/apa/4482399015.html" class="i" data-id="0:00000_5NRgcHIPUPL"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4482399015.html">THE ARBORS APTS 2bedsx2bath</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br - 790ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4482399015">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4511875437"> <a href="/pen/apa/4511875437.html" class="i" data-id="0:00x0x_l3s6gfqCrwG"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4511875437.html">2BR 1BA Palo Alto Available Now</a> </span> <span class="l2">  <span class="price">&#x0024;2400</span> / 2br - 720ft&sup2; -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4511875437">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4478611979"> <a href="/pen/apa/4478611979.html" class="i" data-id="0:01515_9mcsnKxPFeL"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4478611979.html">2 Bedroom Charming Single Family Home Close to Downtown Mountain View</a> </span> <span class="l2">  <span class="price">&#x0024;2995</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4478611979">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4492878844"> <a href="/pen/apa/4492878844.html" class="i" data-id="0:00e0e_5ZkXPIoHzXm"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4492878844.html">3907-C Middlefield Road, 2 Bedroom, 1 Bath Single Story Condo</a> </span> <span class="l2">  <span class="price">&#x0024;2900</span> / 2br -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="4511857178"> <a href="/pen/apa/4511857178.html" class="i" data-id="0:00T0T_ei8q3j3KrGo"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4511857178.html">Close to Google, LinkedIn, Park, San Antonio Shops, Costco and etc.</a> </span> <span class="l2">  <span class="price">&#x0024;2400</span> / 2br - 800ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="4500505879"> <a href="/pen/apa/4500505879.html" class="i" data-id="0:00000_5NRgcHIPUPL"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4500505879.html">The Arbors on California St</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br - 790ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4500505879">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4511841295"> <a href="/pen/apa/4511841295.html" class="i" data-id="0:01313_dQ1vFruuE9y"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4511841295.html">Last chance to snag a wonderfully renovated home, XL patio, W&amp;D!</a> </span> <span class="l2">  <span class="price">&#x0024;2766</span> / 2br - 826ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4511841295">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4490796617"> <a href="/pen/apa/4490796617.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4490796617.html">Nice spacious 2 br 1 bath house!</a> </span> <span class="l2">  <span class="price">&#x0024;2995</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-pid="4511713566"> <a href="/pen/apa/4511713566.html" class="i" data-id="0:00h0h_fcrFWFMGMCY"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4511713566.html">2x1 LARGE UNIT IN EXCELLENT LOCATION!!!</a> </span> <span class="l2">  <span class="price">&#x0024;2475</span> / 2br - 900ft&sup2; -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4511713566">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4511705622"> <a href="/pen/apa/4511705622.html" class="i" data-id="0:00s0s_4TYCaDBnEO7"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4511705622.html">2x1 NEWLY REMODELED!!</a> </span> <span class="l2">  <span class="price">&#x0024;2575</span> / 2br - 880ft&sup2; -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4511705622">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4511670162"> <a href="/pen/apa/4511670162.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4511670162.html">Special , Near Midtown Shopping</a> </span> <span class="l2">  <span class="price">&#x0024;2625</span> / 2br -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4511670162">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4505913364"> <a href="/pen/apa/4505913364.html" class="i" data-id="0:00e0e_ix3aeeO7q0l"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4505913364.html">Completely remodeled 2 bed/1 bath single family house</a> </span> <span class="l2">  <span class="price">&#x0024;3000</span> / 2br - 760ft&sup2; -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4505913364">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4496346889"> <a href="/pen/apa/4496346889.html" class="i" data-id="0:00101_lJ45heNdF0"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4496346889.html">Newly Renovated, Spacious &amp; Sunny! Next to Midtown Shopping!</a> </span> <span class="l2">  <span class="price">&#x0024;2945</span> / 2br - 920ft&sup2; -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4496346889">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502512126"> <a href="/pen/apa/4502512126.html" class="i" data-id="0:00w0w_3xhE2YJCmYW"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502512126.html">Walk to Downtown! Top Floor w/ Hardwood Floors! Covered Parking!</a> </span> <span class="l2">  <span class="price">&#x0024;2895</span> / 2br - 760ft&sup2; -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4502512126">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4510562222"> <a href="/pen/apa/4510562222.html" class="i" data-id="0:00Q0Q_9eNYwDfrKWt"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4510562222.html">Close to Google shuttle, includes gym, and spa</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br - 910ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4510562222">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502823629"> <a href="/pen/apa/4502823629.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502823629.html">Very Nicely Remodeled 2 BR x 1.5 Baths Apt</a> </span> <span class="l2">  <span class="price">&#x0024;2350</span> / 2br - 930ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4502823629">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4500609185"> <a href="/pen/apa/4500609185.html" class="i" data-id="0:00L0L_e04KtVl1mqh"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4500609185.html">Mtn. View  2 BR / 2 BA Condo </a> </span> <span class="l2">  <span class="price">&#x0024;2750</span> / 2br - 860ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4500609185">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4509919675"> <a href="/pen/apa/4509919675.html" class="i" data-id="0:00r0r_cH1e5MsQY9v"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509919675.html">Heart of Downtown yet Quiet 2/1 cottage</a> </span> <span class="l2">  <span class="price">&#x0024;2500</span> / 2br - 700ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4509919675">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4509917387"> <a href="/pen/apa/4509917387.html" class="i" data-id="0:00E0E_225pnz1Byzc"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509917387.html">Updated, Spacious 2bd/1ba Condo- minutes from Google</a> </span> <span class="l2">  <span class="price">&#x0024;2700</span> / 2br - 935ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4509917387">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4509835755"> <a href="/pen/apa/4509835755.html" class="i" data-id="0:00202_a1EPoQGBGPi"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509835755.html">2/2 Condo unit in a park-like neighborhood</a> </span> <span class="l2">  <span class="price">&#x0024;2900</span> / 2br - 1033ft&sup2; -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4509835755">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4509683802"> <a href="/pen/apa/4509683802.html" class="i" data-id="0:00f0f_9DwLA4cX0oB"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509683802.html">Dual patio doors to let in the light!</a> </span> <span class="l2">  <span class="price">&#x0024;2786</span> / 2br - 800ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="4509646063"> <a href="/pen/apa/4509646063.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509646063.html">Walk to bike trails and parks, easy access to Hwys 85, 101 &amp; 280</a> </span> <span class="l2">  <span class="price">&#x0024;2895</span> / 2br - 940ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-pid="4509506462"> <a href="/pen/apa/4509506462.html" class="i" data-id="0:00q0q_5Nq2zvlCskb"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509506462.html">2-bedroom apartment in great Palo Alto location!</a> </span> <span class="l2">  <span class="price">&#x0024;2350</span> / 2br -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4509506462">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4497688699"> <a href="/pen/apa/4497688699.html" class="i" data-id="0:00H0H_a7XAZ8E86RS"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4497688699.html">Executive Fully Furnished 1+ BD/1BA Condo</a> </span> <span class="l2">  <span class="price">&#x0024;2700</span> / 2br - 1000ft&sup2; -  <span class="pnr"> <small> (los altos)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4497688699">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4509279434"> <a href="/pen/apa/4509279434.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509279434.html">Golf enthusiast dream PGA style putting green &amp; Bocce Ball court</a> </span> <span class="l2">  <span class="price">&#x0024;2895</span> / 2br - 940ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-pid="4509208641"> <a href="/pen/apa/4509208641.html" class="i" data-id="0:00B0B_9MIM3rvN54t"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509208641.html">Pre-leasing 2 bedroom 2 bathroom available July 1st! </a> </span> <span class="l2">  <span class="price">&#x0024;2822</span> / 2br - 1060ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4509208641">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4509072246"> <a href="/pen/apa/4509072246.html" class="i" data-id="0:00P0P_h913yZNiMmh"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4509072246.html">Great location, upscale amenities, walk to Starbucks, dining, or shops</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br - 910ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4509072246">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4508975632"> <a href="/pen/apa/4508975632.html" class="i" data-id="0:00e0e_ix3aeeO7q0l"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4508975632.html">Completely remodeled 2 bed/1 bath house </a> </span> <span class="l2">  <span class="price">&#x0024;3000</span> / 2br - 760ft&sup2; -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4508975632">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4508380194"> <a href="/pen/apa/4508380194.html" class="i" data-id="0:00j0j_goK9faLnesj"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4508380194.html">Welcome home to Woodside Place , Available Now!</a> </span> <span class="l2">  <span class="price">&#x0024;2145</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4508380194">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4508089230"> <a href="/pen/apa/4508089230.html" class="i" data-id="0:01313_3f5AT09KMyU"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4508089230.html">2 bedroom, 1 bathroom, Available Mid June 2014! GREAT location!</a> </span> <span class="l2">  <span class="price">&#x0024;1995</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4508089230">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4508093883"> <a href="/pen/apa/4508093883.html" class="i" data-id="0:00W0W_f3Rg7nmUR73"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4508093883.html">Charming and Spacious - Available July11</a> </span> <span class="l2">  <span class="price">&#x0024;2195</span> / 2br - 1000ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4508093883">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4508091770"> <a href="/pen/apa/4508091770.html" class="i" data-id="0:00Z0Z_5R60FTwCBQJ"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4508091770.html">Two Bedroom Town House in the Mid-Town area! Available NOW!</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4508091770">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4508004992"> <a href="/pen/apa/4508004992.html" class="i" data-id="0:01717_dKiwZTgdjxL"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4508004992.html">Huge- Savings!!$199 Deposit- 1060sqft 2x2 Available July 11th!!</a> </span> <span class="l2">  <span class="price">&#x0024;2773</span> / 2br - 1060ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4508004992">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4484136984"> <a href="/pen/apa/4484136984.html" class="i" data-id="0:00M0M_iNOAzvMX91V"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4484136984.html">Granite counter tops, newer appliances, Bathroom &amp; Kitchen updated</a> </span> <span class="l2">  <span class="price">&#x0024;2595</span> / 2br -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4484136984">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4496453253"> <a href="/pen/apa/4496453253.html" class="i" data-id="0:01111_6KXstyB7XdX"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4496453253.html">Open House: Saturday June 7th @ 1pm! Downstairs corner unit</a> </span> <span class="l2">  <span class="price">&#x0024;2395</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4496453253">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4507471439"> <a href="/pen/apa/4507471439.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4507471439.html">  We're located at: 1200 Dale Ave Mountain View, CA 94</a> </span> <span class="l2">  <span class="price">&#x0024;2895</span> / 2br - 940ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-pid="4495992202"> <a href="/pen/apa/4495992202.html" class="i" data-id="0:00O0O_kpcVSdtcwgS"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4495992202.html">Very Close to Caltrain, San Antonio Center; Renovated, $199 Deposit</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br - 790ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="4506735976"> <a href="/pen/apa/4506735976.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4506735976.html">1000 sq ft Guest House</a> </span> <span class="l2">  <span class="price">&#x0024;2500</span> / 2br - 1000ft&sup2; -  <span class="pnr"> <small> (los altos)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-pid="4483009761"> <a href="/pen/apa/4483009761.html" class="i" data-id="0:00Y0Y_kpeeMY1QLb3"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4483009761.html">Spacious 2 bdrm 1 bath with storage and parking</a> </span> <span class="l2">  <span class="price">&#x0024;2650</span> / 2br - 1ft&sup2; -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4483009761">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4505994833"> <a href="/pen/apa/4505994833.html" class="i" data-id="0:00707_gzDAyCtsCfk"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4505994833.html">Open Floor Plan ::: Charming ::: Quiet :: *Pet Friendly community* </a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br - 1100ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4505994833">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4497657168"> <a href="/pen/apa/4497657168.html" class="i" data-id="0:00u0u_hx3JgikDUQD"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4497657168.html">Great location, upscale amenities, walk to Starbucks, dining, or shops</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br - 910ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4497657168">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4505828334"> <a href="/pen/apa/4505828334.html" class="i" data-id="0:01414_guFqPlXx9vA"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4505828334.html">Beautiful 2 Bedroom Avail. for 7/7 Move In - Great Mtn. View Location</a> </span> <span class="l2">  <span class="price">&#x0024;2355</span> / 2br - 900ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4505828334">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4505715488"> <a href="/pen/apa/4505715488.html" class="i" data-id="0:00u0u_hx3JgikDUQD"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4505715488.html">Close to LinkedIn and Google, putting green, pool, gym</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br - 910ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p> <p class="row" data-pid="4494128993"> <a href="/pen/apa/4494128993.html" class="i" data-id="0:00U0U_jCWmjWBzJss"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4494128993.html">All New 2Bed 2Bath (Mountain View) Special $199 Deposit!!!</a> </span> <span class="l2">  <span class="price">&#x0024;2595</span> / 2br - 790ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4494128993">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4504755945"> <a href="/pen/apa/4504755945.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4504755945.html">Replacement needed ASAP</a> </span> <span class="l2">  <span class="price">&#x0024;500</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p> <p class="row" data-pid="4504543536"> <a href="/pen/apa/4504543536.html" class="i" data-id="0:01111_6KXstyB7XdX"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4504543536.html">Open House: Saturday June 7th @ 1pm! Downstairs corner apartment! </a> </span> <span class="l2">  <span class="price">&#x0024;2395</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4504543536">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4504174131"> <a href="/pen/apa/4504174131.html" class="i" data-id="0:00j0j_goK9faLnesj"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4504174131.html">TWO Bedroom, NEW faux wood flooring, Move in JUNE 6th!</a> </span> <span class="l2">  <span class="price">&#x0024;2145</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4504174131">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4504002453"> <a href="/pen/apa/4504002453.html" class="i" data-id="0:00i0i_azhvCWa5sUJ"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4504002453.html">2 Bed 1 Bath will be ready for Mid July move in!</a> </span> <span class="l2">  <span class="price">&#x0024;2675</span> / 2br - 775ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4504002453">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4503813645"> <a href="/pen/apa/4503813645.html" class="i" data-id="0:00o0o_lkvEXsJweLh"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4503813645.html">Top Floor Corner Unit with View- A/C- Indoor Laundry- Gym- Pool</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br - 1197ft&sup2; -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4503813645">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502911768"> <a href="/pen/apa/4502911768.html" class="i" data-id="0:00P0P_h913yZNiMmh"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502911768.html">Near Caltrain, LinkedIn, Google, FB shuttle, gated access</a> </span> <span class="l2">  <span class="price">&#x0024;2795</span> / 2br - 910ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4502911768">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502851832"> <a href="/pen/apa/4502851832.html" class="i" data-id="0:00x0x_9fncf5dxDTH"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502851832.html">2 Bedrm 1 Bath Cottage in The Willows Area</a> </span> <span class="l2">  <span class="price">&#x0024;2800</span> / 2br - 625ft&sup2; -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4502851832">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502794452"> <a href="/pen/apa/4502794452.html" class="i" data-id="0:01111_6KXstyB7XdX"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502794452.html">Open House: Saturday June 7th @ 1pm! Downstairs corner unit</a> </span> <span class="l2">  <span class="price">&#x0024;2395</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4502794452">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4479982841"> <a href="/pen/apa/4479982841.html" class="i" data-id="0:00F0F_jVoisQUlxy7"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4479982841.html">Granite counter tops, newer appliances, Bathroom &amp; Kitchen updated</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4479982841">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4457512434"> <a href="/pen/apa/4457512434.html" class="i" data-id="0:00o0o_cNUAjp2WOvS"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4457512434.html">Two Bedroom Town House in the Mid-Town area! Available June 2014!</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br -  <span class="pnr"> <small> (palo alto)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4457512434">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502381959"> <a href="/pen/apa/4502381959.html" class="i" data-id="0:00i0i_azhvCWa5sUJ"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502381959.html">2bed 1 bath Modern living in the Mountain View Area</a> </span> <span class="l2">  <span class="price">&#x0024;2675</span> / 2br - 775ft&sup2; -  <span class="pnr"> <small> (los altos)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4502381959">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502077502"> <a href="/pen/apa/4502077502.html" class="i" data-id="0:00j0j_goK9faLnesj"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502077502.html">Welcome home to Woodside Place, Available JUNE 1st!</a> </span> <span class="l2">  <span class="price">&#x0024;2145</span> / 2br -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4502077502">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4502010946"> <a href="/pen/apa/4502010946.html" class="i"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4502010946.html">Lg. 2 BEDROOM/1BATH</a> </span> <span class="l2">  <span class="price">&#x0024;2250</span> / 2br - 750ft&sup2; -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4502010946">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4490775416"> <a href="/pen/apa/4490775416.html" class="i" data-id="0:00U0U_iWnIvamJgzF"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4490775416.html">OPEN HOUSE WED 6/5 1-5--MODERN INTERIORS--COMPLETELY RENOVATED </a> </span> <span class="l2">  <span class="price">&#x0024;2750</span> / 2br - 1020ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4490775416">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4501874476"> <a href="/pen/apa/4501874476.html" class="i" data-id="0:00L0L_90NrkVfpsQb"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4501874476.html">Home for Rent </a> </span> <span class="l2">  <span class="price">&#x0024;2100</span> / 2br - 1100ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4501874476">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4501620344"> <a href="/pen/apa/4501620344.html" class="i" data-id="0:00X0X_hikqsufrZbs"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4501620344.html">2 Bedroom 1 Bath Home</a> </span> <span class="l2">  <span class="price">&#x0024;2900</span> / 2br - 970ft&sup2; -  <span class="pnr"> <small> (menlo park)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4501620344">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4491272290"> <a href="/pen/apa/4491272290.html" class="i" data-id="0:00000_5NRgcHIPUPL"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4491272290.html">***The Arbors*** at California St.</a> </span> <span class="l2">  <span class="price">&#x0024;2695</span> / 2br - 790ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4491272290">map</span></span></span> </span>  </span> </p> <p class="row" data-pid="4500589914"> <a href="/pen/apa/4500589914.html" class="i" data-id="0:01414_guFqPlXx9vA"></a> <span class="star"></span> <span class="pl">  <a href="/pen/apa/4500589914.html">Corner 2 Bedroom Apartment w/ Large Patio &amp; Garage Prkg. Avail. 7/7/14</a> </span> <span class="l2">  <span class="price">&#x0024;2355</span> / 2br - 900ft&sup2; -  <span class="pnr"> <small> (mountain view)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4500589914">map</span></span></span> </span>  </span> </p>
+                    <div id="mapcontainer" data-arealat="37.500000" data-arealon="-122.250000">
+	<div id="noresult_overlay"></div>
+		<div id="noresult_text">
+			<span class="message">No mappable items found</span>
+		</div>
+	<div id="map" class="loading"></div>
+</div>
+<span class="timing"></span>
+                     
+                </div>
+
+                <div class="toc_legend bottom">
+                    <div class="center">
+                        <span class="paginator buttongroup">
+<span class="resulttotal">displaying <span class='displaycount'>...</span> of 76 postings</span><span class="buttons"><span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 76 </span><span class="button next" title="next page"> next &gt; </span></span>
+</span><span class="tocsort buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+                    </div>
+                </div>
+
+            </div>
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+        </section>
+        
+        <footer>
+	
+			<span class="rss">
+				<a class="l" href="http://sfbay.craigslist.org/search/pen/apa?bedrooms=2&amp;maxAsk=3000&amp;nh=70&amp;nh=76&amp;nh=78&amp;nh=79&amp;nh=81&amp;nh=83&amp;s=0&amp;sale_date=-&amp;format=rss">RSS</a>
+				<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+			</span>
+			
+	<ul class="clfooter">
+		<li>&copy; 2014 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+		<li><a href="//www.craigslist.org/about/help/">help</a></li>
+		<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+		<li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+		<li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+		<li><a href="//www.craigslist.org/about/">about</a></li>
+		<li class="fsel desktop" data-mode="mobile"><a href="#">mobile</a></li>
+		<li class="fsel mobile" data-mode="regular"><a href="#">desktop</a></li>
+	</ul>
+</footer>
+    </article>
+    <script  src="//www.craigslist.org/js/general-concat.min.js?v=2eb63aa8c20ddd43f5e8c9f8c71f6a2b" type="text/javascript" ></script>
+    <script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=df3e26b8dc7dec459e3415594e32b1a3';
+        document.body.insertBefore(iframe, null);
+    --></script>
+    <script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-id="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+         <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+         <span class="bedrooms">{BedroomsContent}</span>
+         <span class="postingtitle"><a>{PostingTitle}</a></span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            <button class="back">&lt;</button> back to posting list
+        </div>
+        <div class="title">
+            <span class="star" data-pid="{PostingID}"></span>
+            <span class="postingtitle"><a href="{PostingURL}" target="_blank">{PostingTitle}</a></span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer">
+            <div class="slidernav">
+                <button class="back" disabled="disabled">&lt;</button><span class="sliderinfo"></span><button class="forward">&gt;</button>
+            </div>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <abbr class="date timeago" title="{isoPostedDate}">{humanPostedDate}</abbr>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script  src="//www.craigslist.org/js/leaflet-concat.min.js?v=bbbd424cb4776a9b117d2a4d8bbe5e27" type="text/javascript" ></script>
+    <script  src="//www.craigslist.org/js/tocs-concat.min.js?v=27ac34be53e52a51559777fad2d496c9" type="text/javascript" ></script>
+</body>
+</html>
+
