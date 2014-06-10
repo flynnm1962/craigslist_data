@@ -34,7 +34,7 @@ for file in os.listdir(folder):
               opened.close()
               vals = json.loads(x)
               times.append(vals['routes'][0]['legs'][0]['duration']['value'])
-              time.sleep(1)
+              time.sleep(2)
             print "sby/"+file,price,times[0],times[1]
             sys.stdout.flush()
           except:
