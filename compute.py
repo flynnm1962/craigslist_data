@@ -6,7 +6,7 @@ import urllib2
 import sys
 import time
 
-folder = "sfbay.craigslist.org/sby/apa/"
+folder = "sfbay.craigslist.org/pen/apa/"
 for file in os.listdir(folder):
   if file.startswith("4") and file.endswith(".html"):
     price = 0
