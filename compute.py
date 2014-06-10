@@ -4,6 +4,7 @@ import json
 import re
 import urllib2
 import sys
+import time
 
 folder = "sfbay.craigslist.org/sby/apa/"
 for file in os.listdir(folder):
@@ -33,6 +34,7 @@ for file in os.listdir(folder):
               opened.close()
               vals = json.loads(x)
               times.append(vals['routes'][0]['legs'][0]['duration']['value'])
+              time.sleep(10)
             print "sby/"+file,price,times[0],times[1]
             sys.stdout.flush()
           except:
