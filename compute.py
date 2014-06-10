@@ -12,7 +12,7 @@ for file in os.listdir(folder):
     price = 0
     with open(os.path.join(folder, file)) as current_file:
       for line in current_file:
-        zz = re.search("\\$[0-9]{4,}", line)
+        zz = re.search("&#x0024;[0-9]{4,}", line)
         if zz:
           price = zz.group()
         m = line.find("maps.google.com")
