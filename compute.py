@@ -8,7 +8,7 @@ import time
 
 folder = "sfbay.craigslist.org/sby/apa/"
 for file in os.listdir(folder):
-  if file.startswith("3") and file.endswith(".html"):
+  if file.startswith("4") and file.endswith(".html"):
     price = 0
     with open(os.path.join(folder, file)) as current_file:
       for line in current_file:
@@ -34,7 +34,7 @@ for file in os.listdir(folder):
               opened.close()
               vals = json.loads(x)
               times.append(vals['routes'][0]['legs'][0]['duration']['value'])
-              time.sleep(10)
+              time.sleep(1)
             print "sby/"+file,price,times[0],times[1]
             sys.stdout.flush()
           except:
